@@ -1,0 +1,44 @@
+.ticketText {
+    font-family:Helvetica;
+    font-size:41px;
+    color:white;
+    position:absolute;
+    z-index:1;
+}
+#ticketDate { 
+    top:1170;
+    left:282px;
+}
+#ticketTime { 
+    top:1170;
+    left:537px;
+}
+
+#phoneTime { 
+    font-family:-apple-system;
+    font-size:39px;
+    color:black;
+    position:absolute;
+    top:7px;
+    left:78px;
+    z-index:1;
+}
+
+#ticketTimeRect {
+    background-color: rgba(139,4,0,255);
+    height:110px;
+    width:550px;
+    position:absolute;
+    top:1170px;
+    left:260px;
+    z-index:0;
+}
+#phoneTimeRect {
+    background-color: white;
+    height:90px;
+    width:180px;
+    position:absolute;
+    top:18px;
+    left:60px;
+    z-index:0;
+}
