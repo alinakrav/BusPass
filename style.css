@@ -7,7 +7,9 @@
     z-index:-1;
 }
 #screen {
-    width:100%;
+    width:964px;
+    height:2087px;
+    /* width:100%; */
 }
 
 .ticketText {
