@@ -1,12 +1,12 @@
 #face {
     width:320px;
     height:auto;
-    left:60%;
-    top:31%;
+    left:600px;
+    top:450px;
     position:absolute;
     z-index:-1;
 }
-#ticket {
+#screen {
     width:100%;
 }
 
