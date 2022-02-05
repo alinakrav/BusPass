@@ -1,5 +1,6 @@
 var date;
 document.addEventListener('DOMContentLoaded', function() {
+    window.scrollTo(0, 80);
     setTicketTime();
     setPhoneTime();
     setTicketDate();
